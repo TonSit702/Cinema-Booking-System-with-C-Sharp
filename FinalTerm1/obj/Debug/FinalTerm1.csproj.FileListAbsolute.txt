@@ -1,0 +1,17 @@
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\bin\Debug\FinalTerm1.exe.config
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\bin\Debug\FinalTerm1.exe
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\bin\Debug\FinalTerm1.pdb
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.csproj.AssemblyReference.cache
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.Getticket.resources
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.Home.resources
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.Login.resources
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.Manage.resources
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.Properties.Resources.resources
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.Register.resources
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.csproj.GenerateResource.cache
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.csproj.CoreCompileInputs.cache
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.exe
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.pdb
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.Report.resources
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\bin\Debug\Zen.Barcode.Core.dll
+D:\Document\SOUTSAKA\N\NT1\C_Sharp_2_RJ_THIP\Projects\FinalTerm1\FinalTerm1\obj\Debug\FinalTerm1.csproj.CopyComplete
